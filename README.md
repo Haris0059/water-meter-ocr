@@ -6,7 +6,7 @@ AI-powered water meter reading extraction from handwritten tables using OpenAI A
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# Overview
+## Overview
 This project automates the extraction of water meter readings from scanned PDF documents containing handwritten data. It uses OpenAI's Vision API (GPT-4o) combined with OpenCV for image processing to accurately read both printed and handwritten numbers from tabular data.
 
 **Key Features:**
