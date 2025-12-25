@@ -1,6 +1,6 @@
 # Water Meter OCR
 
-AI-powered water meter reading extraction from handwritten tables using OpenAI API. Converts PDF documents to CSV with automatic validation.
+AI-powered water meter reading extraction from handwritten tables using OpenAI API. Converts PDF documents to CSV with automatic validation
 
 ![Python](https://img.shields.io/badge/python-3.12+-blue.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-green.svg)
