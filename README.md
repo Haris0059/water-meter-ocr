@@ -124,4 +124,5 @@ The system automatically validates readings and flags issues:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
 **Note:** This project requires an OpenAI API key and will incur costs based on usage. Always monitor your API usage and set spending limits.
